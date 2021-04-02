@@ -1,10 +1,11 @@
 # Felipe Gouveia
 
-👽 **Software Engineer**
+⚡ **Software Engineer**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouveiafelipe)
 
-- 🌱 Kotlin Multiplatform
+- 🌱 Kotlin Multiplatform, Jetpack Compose
+- 💟 Open Source
 
 <table style="width:100%">
   <tr>
