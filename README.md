@@ -12,10 +12,10 @@
 
 <table style="width:100%">
   <tr>
-    <th>Developing in</th>
-    <th>Backend</th>
-    <th>Testing</th>
-    <th>Tools</th>
+    <th width="25%">Working with</th>
+    <th width="25%">Backend</th>
+    <th width="25%">Testing</th>
+    <th width="25%">Tools</th>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="html5"  width="40" height="40"/></td>
