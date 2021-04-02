@@ -1,6 +1,9 @@
 # Felipe Gouveia
 
-⚡ **Software Engineer**
+⚡ **Computer and Software Engineer**
+
+- Computer Engineer by <a href="https://portal.ufpa.br/">UFPA</a>.
+- Software Engineer by <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a>.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouveiafelipe)
 
